@@ -12,12 +12,6 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 
-import image from "../images/mosaic.svg";
-const imageAltText = "purple and blue abstract background";
-
-import image from "../images/design-desk.jpeg";
-const imageAltText = "desktop with books and laptop";
-
 import "./styles.css";
 
 /**
